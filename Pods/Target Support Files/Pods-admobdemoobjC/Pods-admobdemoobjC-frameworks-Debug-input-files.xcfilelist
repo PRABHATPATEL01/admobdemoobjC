@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-admobdemoobjC/Pods-admobdemoobjC-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/LRPreferenceLinkSDK/LRPreferenceLinkSDK.framework/LRPreferenceLinkSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/LRPrivacyManagerSDK/LRPrivacyManagerSDK.framework/LRPrivacyManagerSDK

@@ -1,0 +1,29 @@
+PODS:
+  - Google-Mobile-Ads-SDK (11.0.1):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleUserMessagingPlatform (2.2.0)
+  - LRPreferenceLinkSDK (1.0.7)
+  - LRPrivacyManagerSDK (2.0.0):
+    - LRPreferenceLinkSDK
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - GoogleUserMessagingPlatform
+  - LRPrivacyManagerSDK
+
+SPEC REPOS:
+  trunk:
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - LRPreferenceLinkSDK
+    - LRPrivacyManagerSDK
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 7a466427864972f5229f1f89d004b998a28ddcae
+  GoogleUserMessagingPlatform: d31dbfb40ec02c5d9683029815c5d5a7f46389ee
+  LRPreferenceLinkSDK: 9c8ef0a2f8d850c7aa5170a392b245c8e7887a05
+  LRPrivacyManagerSDK: 6f60a6b8c302fe4fcf563f1a2ef5ce0fb2bfabb1
+
+PODFILE CHECKSUM: c313129c21c73da9d734fabbb3b261cf8bbbf020
+
+COCOAPODS: 1.15.0
